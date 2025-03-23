@@ -3,7 +3,7 @@ import { useArgs } from '@storybook/preview-api';
 import { Checkbox } from './Checkbox';
 
 const meta: Meta<typeof Checkbox> = {
-  title: 'Inputs/Checkbox',
+  title: 'My Stories/Checkbox',
   component: Checkbox,
   tags: ['autodocs'],
   argTypes: {
